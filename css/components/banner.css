@@ -1,0 +1,28 @@
+.banner{
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  /* padding: 200px 0; */
+}
+
+.banner h1 {
+  color: white;
+  font-family: "Poppins" sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+}
+.banner p {
+  color: white;
+  font-family: "Open Sans" sans-serif;
+  font-size: 20px;
+  opacity: .7;
+  padding-bottom: 15px;
+}
+
+.banner .container {
+  padding: 200px 0px;
+}
+
+.banner .btn-green {
+  margin-top: 8px;
+}
